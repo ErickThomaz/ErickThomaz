@@ -2,11 +2,11 @@
 
 ### 📖 About Me
 
-* 18 years old
+* 19 years old
 * Java developer
 * From Guarulhos, SP
 
-[<img alt= "LinkeIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/erick-ferreira-thomaz/)
+[<img alt= "LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/erick-ferreira-thomaz/)
 
 ## 🔧 Technologies & Tools
 

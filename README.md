@@ -2,6 +2,7 @@
 
 ### 📖 About Me
 
+* Working at Bart Digital
 * 19 years old
 * Java developer
 * From Guarulhos, SP - Brazil

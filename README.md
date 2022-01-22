@@ -4,7 +4,7 @@
 
 * 19 years old
 * Java developer
-* From Guarulhos, SP
+* From Guarulhos, SP - Brazil
 
 [<img alt= "LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/erick-ferreira-thomaz/)
 
@@ -22,5 +22,6 @@
 </details>
 </br>
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=erickfth&layout=compact&hide_title=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickThomaz&show_icons=true&theme=radical&count_private=true)
 
